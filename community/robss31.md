@@ -22,7 +22,7 @@ Estou construindo interfaces, landing Page e outros projetos que encontram-se no
 ## Formação Acadêmica
 
 ### UNINABUCO 
-- SI - Sistema de Informação, Informática e Gerenciamento de Informações
+- SI - Sistema de Informação, Informática e Gerenciamento de Informações.
 
 ### UFPE
 - PÓS EM ENGENHARIA DE QUALIDADE
